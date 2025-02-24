@@ -42,8 +42,7 @@
               "RelativeToolTip": "src\\App.jsx",
               "ViewState": "AgIAABUAAAAAAAAAAAAYwB4AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-02-24T02:40:28.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T02:40:28.462Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "api\\respuesta.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-24T02:39:42.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T02:39:42.888Z"
             },
             {
               "$type": "Document",
@@ -80,8 +78,7 @@
               "RelativeToolTip": "api\\pregunta.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-24T02:39:26.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T02:39:26.348Z"
             },
             {
               "$type": "Document",
@@ -91,7 +88,7 @@
               "RelativeDocumentMoniker": "vercel.json",
               "ToolTip": "C:\\Users\\sofia\\emotionbotweb\\vercel.json",
               "RelativeToolTip": "vercel.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-02-24T02:38:48.005Z",
               "EditorCaption": ""
